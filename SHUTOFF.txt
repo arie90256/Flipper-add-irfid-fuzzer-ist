@@ -1,3 +1,5 @@
+REM puts you into powershell and powers off computer.
+REM windows 10+
 GUI r
 DELAY 500
 STRING powershell
